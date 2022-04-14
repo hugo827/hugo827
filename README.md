@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hugo827
+- 👋 Hi, I’m Hugo Janssens (@hugo827)
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning programming and i have bachelor's degree of IT.
 - 💞️ I’m looking to collaborate on ...
